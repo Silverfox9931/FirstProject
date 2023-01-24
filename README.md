@@ -1,2 +1,3 @@
 # FirstProject
-trying the github for the firs time and uploading the projects i have done in my First year of CS degree.
+trying the github for the firs time 
+A Car Sales recording and reviewing program that tracks and displays the number of sales info. [ - Anglia Ruskin university ]
